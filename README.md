@@ -20,7 +20,7 @@ N8N_BASIC_AUTH_PASSWORD=yourpassword
 ```
 ### 설정 설명
 - `GENERIC_TIMEZONE`, `TZ`: 시스템의 시간대를 서울로 설정합니다.
-- `WEBHOOK_TUNNEL_URL`: 웹훅 터널 URL 주소입니다.
+- `WEBHOOK_URL`: 웹훅 터널 URL 주소입니다.
 - `DOMAIN_NAME`, `SUBDOMAIN`: 도메인 관련 설정입니다.
 - `N8N_BASIC_AUTH_ACTIVE`: 기본 인증 활성화 여부입니다.
 - `N8N_BASIC_AUTH_USER`, `N8N_BASIC_AUTH_PASSWORD`: 기본 인증 시 사용할 사용자 이름과 비밀번호입니다.
